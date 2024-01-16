@@ -23,3 +23,4 @@ I'm excitement Python and I want to know more about this language!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimmynova&show_icons=true&locale=en" alt="kimmynova" /></p>
 
+<h1>I'm Learning from<span style="color:red">Dave Gray</span> on YouTube o((>ω< ))o!!!</h1>

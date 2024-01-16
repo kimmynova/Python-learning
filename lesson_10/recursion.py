@@ -9,7 +9,7 @@ def add_one(num):
     # add_one(total) #!because no return keyword the last number gonna turn to [None]
 
 # add_one(0) #!
-myNew_valueTotal = add_one(0)
+myNew_valueTotal = add_one(0) #!we need return value
 print(myNew_valueTotal)
 
     
